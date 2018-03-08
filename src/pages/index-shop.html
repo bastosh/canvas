@@ -1,0 +1,47 @@
+---
+
+layout: rs
+
+---
+
+<!-- Document Wrapper
+	============================================= -->
+<div id="wrapper" class="clearfix">
+
+    <!-- Top Bar
+		============================================= -->
+    {{>top-bar}}
+    <!-- #top-bar end -->
+
+    <!-- Header
+    ============================================= -->
+    {{>navbar-white}}
+    {{>rs-shop}}
+    <!-- #header end -->
+
+    <!-- Content
+    ============================================= -->
+    <main id="content">
+        <div class="content-wrap nobottompadding">
+            <div class="container cleafix">
+                {{>shop-banners}}
+                {{>shop-tabs}}
+                {{>col-1-3-about}}
+                {{>col-1-3-subscribe}}
+                {{>col-1-3-social}}
+                {{>clear}}
+                {{>title-hr}}
+                {{>clients-grid}}
+            </div>
+        {{>section-features-4-secondary}}
+        </div>
+    </main>
+    <!-- #content end -->
+
+    <!-- Footer
+    ============================================= -->
+    {{>footer-xl-dark}}
+    <!-- #footer end -->
+
+</div><!-- #wrapper end -->
+{{>to-top}}

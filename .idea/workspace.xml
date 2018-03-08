@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea7688c4-69ad-40d9-937c-ca7a1a1e6b5f" name="Default" comment="" />
+    <list default="true" id="ea7688c4-69ad-40d9-937c-ca7a1a1e6b5f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/vendors/css/et-line.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/vendors/css/fonts/et-line.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/vendors/css/fonts/et-line.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/vendors/css/fonts/et-line.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/vendors/css/fonts/et-line.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/assets/vendors/css/intro-fonts.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/rev-intro.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/layouts/intro.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/index-shop-2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/index-shop.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/intro.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/brands.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/clients-grid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/col-1-3-about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/col-1-3-social.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/col-1-3-subscribe.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/counters-gray.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/cta-lg-bg-img.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/cta-parallax.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/footer-md-dark.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/footer-xl-dark-2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/footer-xl-dark-3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/footer-xl-dark-4.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/footer-xl-dark-5.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/footer-xxl-dark.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/header-typo-video.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/headline-secondary-2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/headline-secondary.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/headline-sm-dark.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/navbar-dark-semi-transparent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/navbar-dark.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/navbar-floating.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/navbar-login-modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/navbar-semi-transparent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/navbar-shop.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/portfolio-4x13-filters.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/portfolio-4x3-nomargin-filters.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/portfolio-4x6.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/portfolio-4x7-filters.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/rs-shop.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/section-features-4-secondary.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/section-features-boxed-nomargin.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/section-hero.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/section-testimonial-cards-masonry.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/shop-banners.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/shop-cards.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/shop-gallery.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/shop-lists.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/shop-tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/shop.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/si-sticky-right.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/submenu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/title-hr.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/top-bar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/partials/video-560x315.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/rs.html" afterPath="$PROJECT_DIR$/src/layouts/rs.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-blog-2.html" afterPath="$PROJECT_DIR$/src/pages/index-blog-2.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-blog-3.html" afterPath="$PROJECT_DIR$/src/pages/index-blog-3.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-blog.html" afterPath="$PROJECT_DIR$/src/pages/index-blog.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-corporate-2.html" afterPath="$PROJECT_DIR$/src/pages/index-corporate-2.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-corporate-3.html" afterPath="$PROJECT_DIR$/src/pages/index-corporate-3.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-corporate-4.html" afterPath="$PROJECT_DIR$/src/pages/index-corporate-4.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-corporate.html" afterPath="$PROJECT_DIR$/src/pages/index-corporate.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-portfolio-2.html" afterPath="$PROJECT_DIR$/src/pages/index-portfolio-2.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-portfolio-3.html" afterPath="$PROJECT_DIR$/src/pages/index-portfolio-3.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index-portfolio.html" afterPath="$PROJECT_DIR$/src/pages/index-portfolio.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.html" afterPath="$PROJECT_DIR$/src/pages/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/pages/template.html" afterPath="$PROJECT_DIR$/src/pages/template.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/clients.html" afterPath="$PROJECT_DIR$/src/partials/clients.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/footer-sm-dark.html" afterPath="$PROJECT_DIR$/src/partials/footer-sm-dark.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/menu-left.html" afterPath="$PROJECT_DIR$/src/partials/menu-left.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/navbar-center-white.html" afterPath="$PROJECT_DIR$/src/partials/navbar-center.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/navbar-transparent-scroll-dark.html" afterPath="$PROJECT_DIR$/src/partials/navbar-transparent-scroll-dark.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/navbar-transparent.html" afterPath="$PROJECT_DIR$/src/partials/navbar-transparent.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/navbar-white-subtitles.html" afterPath="$PROJECT_DIR$/src/partials/navbar-white-subtitles.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/navbar-white.html" afterPath="$PROJECT_DIR$/src/partials/navbar-white.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/portfolio-grid.html" afterPath="$PROJECT_DIR$/src/partials/portfolio-3x5-nomargin-notitle.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/portfolio-nomargin.html" afterPath="$PROJECT_DIR$/src/partials/portfolio-4x2-nomargin-notitle.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/section-portfolio-masonry-secondary.html" afterPath="$PROJECT_DIR$/src/partials/section-portfolio-nomargin-secondary.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/section-portfolio-nomargin.html" afterPath="$PROJECT_DIR$/src/partials/section-portfolio-nomargin.html" />
+      <change beforePath="$PROJECT_DIR$/src/partials/slider.html" afterPath="$PROJECT_DIR$/src/partials/slider.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,60 +105,68 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>copy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/partials/navbar-transparent.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-tabs-left.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-clients-grid.html" />
-        <option value="$PROJECT_DIR$/src/partials/line.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-tabs-left-line-clients.html" />
-        <option value="$PROJECT_DIR$/src/partials/line-full.html" />
-        <option value="$PROJECT_DIR$/src/partials/navbar-transparent-scroll-dark.html" />
-        <option value="$PROJECT_DIR$/src/partials/cta-sm-purple.html" />
-        <option value="$PROJECT_DIR$/src/partials/clients.html" />
-        <option value="$PROJECT_DIR$/src/pages/index-corporate-3.html" />
-        <option value="$PROJECT_DIR$/src/partials/clients-sm.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-features-3.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-portfolio-masonry-secondary.html" />
-        <option value="$PROJECT_DIR$/src/pages/index-portfolio.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-portfolio-nomargin-2.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-features-3-icons.html" />
-        <option value="$PROJECT_DIR$/src/partials/quote-secondary.html" />
-        <option value="$PROJECT_DIR$/src/partials/section-clients-testimonial.html" />
+        <option value="$PROJECT_DIR$/src/partials/footer-xxl-dark.html" />
         <option value="$PROJECT_DIR$/src/partials/footer-sm-dark.html" />
-        <option value="$PROJECT_DIR$/src/partials/menu-left.html" />
-        <option value="$PROJECT_DIR$/src/partials/portfolio-grid.html" />
-        <option value="$PROJECT_DIR$/src/layouts/side-menu.html" />
-        <option value="$PROJECT_DIR$/src/partials/cta-light.html" />
-        <option value="$PROJECT_DIR$/src/pages/index-portfolio-3.html" />
-        <option value="$PROJECT_DIR$/src/layouts/portfolio.html" />
-        <option value="$PROJECT_DIR$/src/pages/index-portfolio-2.html" />
-        <option value="$PROJECT_DIR$/src/layouts/default.html" />
+        <option value="$PROJECT_DIR$/src/partials/video-560x315.html" />
+        <option value="$PROJECT_DIR$/src/partials/header-typo-video.html" />
+        <option value="$PROJECT_DIR$/src/partials/headline-secondary.html" />
+        <option value="$PROJECT_DIR$/src/partials/section-portfolio-nomargin.html" />
+        <option value="$PROJECT_DIR$/src/partials/portfolio-4x3-nomargin.html" />
+        <option value="$PROJECT_DIR$/src/partials/section-portfolio-nomargin-secondary.html" />
+        <option value="$PROJECT_DIR$/src/partials/portfolio-4x6.html" />
+        <option value="$PROJECT_DIR$/src/partials/headline-secondary-2.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-white.html" />
         <option value="$PROJECT_DIR$/src/partials/navbar-center-white.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-img.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-video.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-slider.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-audio.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-articles-pagination.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-header.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-full.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-masonry.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-img-left.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-video-left.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-slider-left.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-masonry-left.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-audio-left.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-page-2.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-quote.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-ad.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-article-boxed.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-dark.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-dark-semi-transparent.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-floating.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-login-modal.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-semi-transparent.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-shop.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-transparent.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-transparent-scroll-dark.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-white-subtitles.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-portfolio-3.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-shop-2.html" />
+        <option value="$PROJECT_DIR$/src/partials/submenu.html" />
+        <option value="$PROJECT_DIR$/src/partials/portfolio-4x7-filters.html" />
+        <option value="$PROJECT_DIR$/src/partials/counters-gray.html" />
+        <option value="$PROJECT_DIR$/src/partials/headline-sm-dark.html" />
+        <option value="$PROJECT_DIR$/src/partials/portfolio-4x13-filters.html" />
+        <option value="$PROJECT_DIR$/src/partials/section-hero.html" />
+        <option value="$PROJECT_DIR$/src/partials/section-testimonial-cards-masonry.html" />
+        <option value="$PROJECT_DIR$/src/partials/cta-lg-bg-img.html" />
+        <option value="$PROJECT_DIR$/src/pages/intro.html" />
+        <option value="$PROJECT_DIR$/src/partials/section-features-boxed-nomargin.html" />
+        <option value="$PROJECT_DIR$/src/assets/vendors/css/et-line.css" />
+        <option value="$PROJECT_DIR$/src/layouts/intro.html" />
         <option value="$PROJECT_DIR$/src/pages/index-blog-2.html" />
-        <option value="$PROJECT_DIR$/src/pages/index-blog.html" />
         <option value="$PROJECT_DIR$/src/pages/index-blog-3.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-articles-img-top.html" />
-        <option value="$PROJECT_DIR$/src/partials/blog-articles-masonry.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-corporate.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-corporate-2.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-corporate-4.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-portfolio.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-portfolio-2.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-shop.html" />
+        <option value="$PROJECT_DIR$/src/pages/template.html" />
+        <option value="$PROJECT_DIR$/src/assets/scss/sass/dark.scss" />
+        <option value="$PROJECT_DIR$/src/pages/index-corporate-3.html" />
+        <option value="$PROJECT_DIR$/src/partials/clients.html" />
+        <option value="$PROJECT_DIR$/src/pages/index.html" />
+        <option value="$PROJECT_DIR$/src/pages/index-blog.html" />
+        <option value="$PROJECT_DIR$/src/partials/navbar-center.html" />
+        <option value="$PROJECT_DIR$/src/partials/slider.html" />
       </list>
     </option>
   </component>
@@ -99,6 +190,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -137,12 +229,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/partials" />
-      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/vendors/css" />
+      <recent name="$PROJECT_DIR$/src/assets/vendors/css/fonts" />
+      <recent name="$PROJECT_DIR$/dist/images" />
+      <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/layouts" />
-      <recent name="$PROJECT_DIR$/dist/assets/css" />
-      <recent name="$PROJECT_DIR$/src/assets/vendors/images/icons" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -171,26 +266,27 @@
       <option name="presentableId" value="Default" />
       <updated>1520441753416</updated>
       <workItem from="1520441754709" duration="8876000" />
-      <workItem from="1520462005246" duration="17366000" />
+      <workItem from="1520462005246" duration="30878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26242000" />
+    <option name="totallyTimeSpent" value="39754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2966878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2966878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35308343" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35308343" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -213,167 +309,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/partials/navbar-transparent.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/portfolio-4x3-nomargin-filters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        <state relative-caret-position="344">
+          <caret line="224" column="6" lean-forward="false" selection-start-line="224" selection-start-column="6" selection-end-line="224" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/cta-sm-purple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/clients.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/navbar-transparent-scroll-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15672">
-          <caret line="653" column="0" lean-forward="false" selection-start-line="653" selection-start-column="0" selection-end-line="653" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/footer-stick-primary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/section-portfolio-masonry-secondary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2542">
-          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/clients-sm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/section-features-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/slider-portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="224" column="144" lean-forward="false" selection-start-line="224" selection-start-column="144" selection-end-line="224" selection-end-column="144" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/section-features-3-icons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/quote-secondary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/section-clients-testimonials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1704">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/footer-sm-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/menu-left.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/side-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="31" column="2" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/portfolio-grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6552">
-          <caret line="273" column="0" lean-forward="false" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index-portfolio-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/cta-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/slider-fullscreen.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/portfolio-4x6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -381,261 +325,419 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index-corporate-4.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/headline-secondary-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index-corporate-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index-corporate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="974">
-          <caret line="66" column="13" lean-forward="false" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index-portfolio-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index-portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="144">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/navbar-center-white.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-white.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="48">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-video.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-white-subtitles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="96">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-slider.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-transparent-scroll-dark.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-header.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-transparent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-semi-transparent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="n#header#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-login-modal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="n#header#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-floating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="n#header#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-dark-semi-transparent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="n#header#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/portfolio-4x7-filters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8628">
+          <caret line="368" column="0" lean-forward="false" selection-start-line="368" selection-start-column="0" selection-end-line="368" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/counters-gray.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/headline-sm-dark.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/portfolio-4x13-filters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14901">
+          <caret line="621" column="0" lean-forward="false" selection-start-line="621" selection-start-column="0" selection-end-line="621" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/section-hero.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-pagination.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-masonry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="38" lean-forward="true" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-img-left.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="3" column="56" lean-forward="true" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
           <folding>
-            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-video-left.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/cta-lg-bg-img.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-slider-left.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/section-testimonial-cards-masonry.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-masonry-left.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-audio-left.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-ad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="6745">
+          <caret line="284" column="0" lean-forward="false" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-quote.html">
+    <entry file="file://$PROJECT_DIR$/src/assets/vendors/css/et-line.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="-3258">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-boxed.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/section-features-boxed-nomargin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-articles-img-left.html">
+    <entry file="file://$PROJECT_DIR$/src/layouts/intro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="208">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-audio.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/section-portfolio-slider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index-blog.html">
+    <entry file="file://$PROJECT_DIR$/src/partials/section-portfolio-nomargin-secondary.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="672">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index-blog-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-article-img.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-articles-masonry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partials/blog-articles-img-top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="168">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index-blog-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="168">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/pages/index-corporate-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/submenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-shop-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-portfolio-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-portfolio-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-corporate-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/portfolio-4x2-nomargin-notitle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2319">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/section-portfolio-nomargin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/clients-sm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/clients-grid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-corporate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/sass/dark.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="1016" column="1" lean-forward="false" selection-start-line="1016" selection-start-column="1" selection-end-line="1016" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/scss/sass/footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1671">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-corporate-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-dark.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="n#header#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/slider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/partials/navbar-center.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index-blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#249#315#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
