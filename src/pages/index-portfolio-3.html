@@ -1,0 +1,34 @@
+---
+
+layout: side-menu
+
+---
+
+<!-- Document Wrapper
+	============================================= -->
+<div id="wrapper" class="clearfix">
+
+    <!-- Header
+    ============================================= -->
+    <header>
+        {{>menu-left}}
+    </header>
+    <!-- #header end -->
+
+    <!-- Content
+    ============================================= -->
+    <main id="content">
+        <div class="content-wrap nopadding">
+            {{>portfolio-grid}}
+            {{>cta-light}}
+        </div>
+    </main>
+    <!-- #content end -->
+
+    <!-- Footer
+    ============================================= -->
+    {{>footer-sm-dark}}
+    <!-- #footer end -->
+
+</div><!-- #wrapper end -->
+{{>to-top}}

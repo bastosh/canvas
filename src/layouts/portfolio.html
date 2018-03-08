@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Stylesheets
+	============================================= -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="{{root}}assets/vendors/css/bootstrap.css">
+    <link rel="stylesheet" href="{{root}}assets/css/app.css">
+    <link rel="stylesheet" href="{{root}}assets/vendors/css/swiper.css">
+    <link rel="stylesheet" href="{{root}}assets/vendors/css/dark.css">
+    <link rel="stylesheet" href="{{root}}assets/vendors/css/font-icons.css">
+    <link rel="stylesheet" href="{{root}}assets/vendors/css/animate.css">
+    <link rel="stylesheet" href="{{root}}assets/vendors/css/magnific-popup.css">
+    <link rel="stylesheet" href="{{root}}assets/vendors/css/responsive.css">
+
+    <!-- Document Title
+	============================================= -->
+    <title>Index | Canvas</title>
+
+  </head>
+  <body class="stretched">
+
+    {{> body}}
+
+    <script src="{{root}}assets/vendors/js/jquery.js"></script>
+    <script src="{{root}}assets/vendors/js/plugins.js"></script>
+    <script src="{{root}}assets/vendors/js/functions.js"></script>
+
+    <script>
+        jQuery(window).on( 'load', function(){
+            var swiperParent = new Swiper('.swiper-parent',{
+                paginationClickable: false,
+                slidesPerView: 4,
+                grabCursor: true,
+                prevButton: '.slider-arrow-left',
+                nextButton: '.slider-arrow-right'
+            });
+
+            var swiperNested1 = new Swiper('.swiper-nested-1',{
+                direction: 'vertical',
+                paginationClickable: false,
+                slidesPerView: 3,
+                prevButton: '#sw1-arrow-top',
+                nextButton: '#sw1-arrow-bottom'
+            });
+
+            var swiperNested2 = new Swiper('.swiper-nested-2',{
+                direction: 'vertical',
+                paginationClickable: false,
+                slidesPerView: 2,
+                prevButton: '#sw2-arrow-top',
+                nextButton: '#sw2-arrow-bottom'
+            });
+
+            var swiperNested3 = new Swiper('.swiper-nested-3',{
+                direction: 'vertical',
+                paginationClickable: false,
+                slidesPerView: 2,
+                prevButton: '#sw3-arrow-top',
+                nextButton: '#sw3-arrow-bottom'
+            });
+        });
+    </script>
+
+  </body>
+</html>
