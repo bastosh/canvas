@@ -2,26 +2,38 @@
 	============================================= -->
 <div id="wrapper" class="clearfix">
 
+
+    <!-- Top Bar
+       ============================================= -->
+    {{>top-bar-social}}
+    <!-- #top-bar end -->
+
+
     <!-- Header
     ============================================= -->
-    {{>navbar-center}}
-    {{>slider}}
+    {{>navbar-magazine}}
     <!-- #header end -->
+
 
     <!-- Content
     ============================================= -->
     <main id="content">
         <div class="content-wrap">
-            {{>cta-sm-purple}}
-            {{>blog-articles-masonry}}
+
+            {{>magazine-content-3}}
+
         </div>
     </main>
     <!-- #content end -->
+
 
     <!-- Footer
     ============================================= -->
     {{>footer-xl-dark}}
     <!-- #footer end -->
 
-</div><!-- #wrapper end -->
+
+</div>
+<!-- #wrapper end -->
+
 {{>to-top}}
